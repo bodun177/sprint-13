@@ -22,7 +22,7 @@ TaskList component:
 TaskItem component:
 
 - Should receive props:
-  - task: An object representing the task to be displayed. This object should have the following properties:
+  - task: An object representing the task to be displayed. This object should have the following properties :
     - id: A unique identifier for the task. This property should be of type number.
     - text: The text of the task. This property should be of type string.
     - сompleted: A boolean value that indicates whether the task has been completed or not. This property should be of type boolean.
